@@ -97,10 +97,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Hisham-Qalalwa/World-Robot-Olympiad" title="World Robot Olympiad">
-    <img align="left" height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisham-Qalalwa&repo=World-Robot-Olympiad&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisham-Qalalwa&repo=World-Robot-Olympiad&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/Hisham-Qalalwa/AI-Yield-Assessment" title="AI Yield Assessment">
-    <img align="right" height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisham-Qalalwa&repo=AI-Yield-Assessment&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisham-Qalalwa&repo=AI-Yield-Assessment&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
