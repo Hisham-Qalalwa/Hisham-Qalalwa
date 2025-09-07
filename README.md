@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hishamqalalwal@gmail.com" title="Email">
-    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"> Email
+    <img width="22" src="https://cdn-icons-png.flaticon.com/512/8748/8748009.png"> Email
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linktr.ee/Hisham.Bin.Omar" title="All My Links (Linktree)">
