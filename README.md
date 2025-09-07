@@ -29,10 +29,10 @@
 
 <p align="center">
  Hi, I'm Hisham Qalalwa, Computer Science Student & Software Developer from Palestine 🇵🇸 <br>
-     I study <b>Computer Science</b> at Palestine Technical University – Kadoorie (PTUK) 🎓 <br>
-     I’ve received global and local awards in cultural, scientific, and programming fields 🏆 <br>
-     I work on Researcher, AI & ML Specialist, DL & NN (CNN, RNN, GANs, Transformers), NLP (NER, MT, LMs, BERT), CV (OCR, SLAM, Object Detection), RL & Robotics (ROS, IoT, HRI), XAI & AGI Enthusiast 🖥️ <br>
-     I love coding and sharing knowledge through workshops and projects ✨ <br>
+    - I study <b>Computer Science</b> at Palestine Technical University – Kadoorie (PTUK) 🎓 <br>
+    - I’ve received global and local awards in cultural, scientific, and programming fields 🏆 <br>
+    - I work on Researcher, AI & ML Specialist, DL & NN (CNN, RNN, GANs, Transformers), NLP (NER, MT, LMs, BERT), CV (OCR, SLAM, Object Detection), RL & Robotics (ROS, IoT, HRI), XAI & AGI Enthusiast <br>
+    - I love coding and sharing knowledge through workshops and projects <br>
 💬 Ask me anything from <a href="https://github.com/Hisham-Qalalwa/Hisham-Qalalwa/issues" title="Issues">Here</a> <br>
 📫 How to reach me: <a href="mailto:hishamqalalwal@gmail.com">hishamqalalwal@gmail.com</a>
 </p>
