@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Hisham-Qalalwa" title="GitHub Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub
+    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"> GitHub
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hishamqalalwal@gmail.com" title="Email">
@@ -32,10 +32,9 @@
     - I study <b>Computer Science</b> at Palestine Technical University – Kadoorie ( PTUK ) 🎓  <br>
     - I’ve received global and local awards in cultural, scientific, and programming fields 🏆 <br>
     - I work on: Researcher | AI & ML Specialist | DL & NN (CNN, RNN, GANs, Transformers) <br>
-      NLP (NER, MT, LMs) | CV (OCR, SLAM, OD) | RL & Robotics (ROS, IoT, HRI) | XAI & AGI Enthusiastt 👌 <br>
-    - I love coding and sharing knowledge through workshops and projects <br>
-💬 Ask me anything from <a href="https://github.com/Hisham-Qalalwa/Hisham-Qalalwa/issues" title="Issues">Here</a> <br>
-📫 How to reach me: <a href="mailto:hishamqalalwal@gmail.com">hishamqalalwal@gmail.com</a>
+      NLP (NER, MT, LMs) | CV (OCR, SLAM, OD) | RL & Robotics (ROS, IoT, HRI) | XAI & AGI Enthusiastt 💡 <br>
+📌Ask me anything from <a href="https://github.com/Hisham-Qalalwa/Hisham-Qalalwa/issues" title="Issues">Here</a> 💬 <br>
+📌How to reach me: <a href="mailto:hishamqalalwal@gmail.com">hishamqalalwal@gmail.com </a> 📫  
 </p>
 
 <hr>
